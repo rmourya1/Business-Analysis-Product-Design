@@ -1,2 +1,2 @@
 # Product-Analysis-And-Design
-Product designs and analysis completed as part of academics at Deakin University
+Business Analysis and product design work completed as part of Deakin University assessments
